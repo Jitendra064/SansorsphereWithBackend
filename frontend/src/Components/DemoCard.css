@@ -1,0 +1,127 @@
+.DemoCard {
+    width: 20rem;
+    padding: 10px;
+    margin: 5px 5px;
+}
+
+.CarouselImage img {
+    width: 100%;
+    height: 90vh;
+}
+
+
+.DemoCardbtn {
+    width: 105px;
+    height: 36px;
+    font-size: 13px;
+    background: rgb(5, 5, 173);
+    border: none;
+    border-radius: 4px;
+    color: #fcfcfc;
+    margin: 6px 4px;
+}
+
+@media screen and (max-width:900px) {
+
+    .CarouselImage img {
+        width: 35vh;
+    }
+}
+
+@media screen and (max-width:660px) {
+    .DemoCard {
+        padding: 0px;
+        width: 48vw;
+        min-height: 27vh;
+
+    }
+
+    .CarouselImage img {
+        width: 100%;
+        height: 70vh;
+    }
+}
+
+
+
+
+@media screen and (max-width:500px) {
+
+
+    .DemoCard {
+        padding: 0px;
+        width: 46vw;
+        min-height: 27vh;
+
+
+    }
+
+    .card-body {
+        padding: 10px;
+    }
+
+    .DemoCard img {
+        width: 100%;
+        max-height: 40vh;
+    }
+
+    .card-body h5 {
+        font-size: 16px;
+    }
+
+    .card-body p {
+        margin-top: -10px;
+        padding: 0px;
+        font-size: 14px;
+    }
+
+    .DemoCardbtn {
+        width: 72px;
+        height: 27px;
+        font-size: 9px;
+        background: rgb(5, 5, 173);
+        border: none;
+        border-radius: 4px;
+        color: #fcfcfc;
+    }
+
+    .DemoCardbtnHeader {
+        min-width: 100%;
+    }
+
+    .CarouselImage img {
+        width: 100%;
+        height: 60vh;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .DemoCard {
+        padding: 0px;
+        width: 47vw;
+        min-height: 27vh;
+
+
+    }
+
+    .DemoCard img {
+
+        max-height: 49vh;
+    }
+}
+
+@media screen and (max-width:366px) {
+    .DemoCard {
+        padding: 0px;
+        width: 97vw;
+        min-height: 27vh;
+        margin-left: 2px;
+
+
+    }
+
+    .CarouselImage img {
+        width: 100%;
+        height: 45vh;
+    }
+}

@@ -1,0 +1,220 @@
+.nav-right-new {
+  display: none;
+}
+
+
+
+
+.ProductsHeadline span {
+  font-size: 40px;
+  text-align: center;
+  font-weight: 800;
+  border-bottom: 4px solid black;
+}
+
+
+
+
+/* Products page Css */
+
+
+
+
+.ProductsHeaderSearch {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px auto;
+
+}
+
+.ProductsHeaderSearch h1 {
+  font-size: 40px;
+  text-align: start;
+  font-weight: 800;
+  border-bottom: 4px solid black;
+
+}
+
+.ProductsHeaderSearch input {
+  width: 20rem;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #aa9f9ff1;
+
+}
+
+.ProductsHeaderSearch input:focus {
+  outline: 1px solid #aa9f9ff1;
+}
+
+.SearchButton {
+  width: 9rem;
+  margin-top: 10px;
+  height: 45px;
+  border-radius: 6px;
+  margin: 0px 5px;
+  background-color: darkblue;
+  color: #fff;
+  border: none;
+}
+
+
+
+.ProductsHeaderSearch input:focus {
+  border: none;
+}
+
+
+
+
+/* Accordian Css  */
+
+
+.FAQcss {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  /* background-color: aqua; */
+  min-height: 100vh;
+}
+
+/* .Accodiancss {
+  border: 1px solid black;
+  outline: none;
+  box-shadow: none;
+  background-color: transparent,
+} */
+
+.FAQcss p {
+  margin: 10px 0px;
+}
+
+
+
+
+@media screen and (max-width:900px) {
+  .navbar-right-itemlink {
+    padding: 11px 0px;
+    font-size: 12px;
+  }
+
+  .navbar-right-itemlink {
+
+    padding: 8px 13px;
+    margin: 4px 0px;
+
+    font-size: 18px;
+  }
+
+  .navbar-right-item button {
+
+    margin: 8px 9px;
+    padding: 4px 17px;
+
+  }
+
+
+
+  .formPageCss {
+    width: 580px;
+
+    position: absolute;
+    top: 91px;
+  }
+
+
+}
+
+@media screen and (max-width:766px) {
+
+
+  .FooterEnd {
+    font-size: 10px;
+    height: 30px;
+  }
+
+
+  .nav-right-new {
+    display: block;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+  }
+
+  .offcanvas {
+    width: 40vh;
+  }
+
+  .nav-right {
+    display: none;
+  }
+
+  .formPageCss {
+    width: 90vw;
+
+    position: absolute;
+    top: 80px;
+  }
+
+
+
+}
+
+@media screen and (max-width:550px) {
+  .DemoCard {
+    padding: 0px;
+    width: 16rem;
+    min-height: 27vh;
+
+  }
+
+}
+
+
+
+@media screen and (max-width:500px) {
+  .FooterEnd {
+    font-size: 10px;
+    height: 30px;
+  }
+
+
+  .ProductsHeaderSearch {
+    flex-direction: column;
+  }
+
+  .ProductsHeaderSearch input {
+    width: 15rem;
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 0px;
+  }
+
+  .SearchButton {
+    width: 4rem;
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 3px;
+    margin: 0px 10px;
+    background-color: darkblue;
+    color: #fff;
+    border: none;
+  }
+
+
+  .offcanvas {
+    width: 26vh;
+  }
+
+  .formPageCss {
+    width: 90vw;
+
+    position: absolute;
+    top: 80px;
+  }
+
+
+}

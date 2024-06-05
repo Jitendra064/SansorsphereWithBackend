@@ -1,0 +1,55 @@
+.FooterContainer {
+    background-color: #070740;
+    color: rgb(239, 241, 243);
+    min-width: 100%;
+
+}
+
+.FooterQuickLink {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.FooterQuickLink h3 {
+    margin: 10px 0px 30px 0px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.FooterQuickLink a {
+    color: #fafafa;
+    cursor: pointer;
+    list-style: none;
+    text-align: center;
+    margin-top: 5px;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+.FooterQuickLink li {
+    list-style: none;
+    cursor: pointer;
+    list-style: none;
+    text-align: center;
+    margin-top: 5px;
+    margin: 10px 0px;
+    font-weight: 300;
+}
+
+.FooterQuickLink a:hover {
+
+    text-decoration: underline;
+}
+
+.FooterEnd p {
+    background-color: #472d60;
+    color: #fafafa;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,195 @@
+[
+  {
+    "Img": "./img/product_card1.jpg",
+    "Title": "ICs",
+    "Text": "chips are single-chip processors for measuring position without contact using resonan...",
+    "price": "₹ 180",
+    "xprice": "₹ 250",
+    "off": "50% off"
+  },
+  {
+    "Img": "./img/product_card2.jpg",
+    "Title": "Streaming Adapter",
+    "Text": "Sensor chips are dies incorporating semiconductor circuit elements that are used day...",
+    "price": "₹ 200",
+    "xprice": "₹ 270",
+    "off": "56% off"
+  },
+  {
+    "Img": "./img/product_card3.jpg",
+    "Title": "CTU Adapter",
+    "Text": "A selection of development tools available to assist the evaluation and integrations and doing tasks",
+    "price": "₹ 180",
+    "xprice": "₹ 230",
+    "off": "40% off"
+  },
+  {
+    "Img": "./img/product_card4.jpg",
+    "Title": "Basic Rotary Sensors",
+    "Text": "The Type 3&4 CAM204 Development Board includes a CAM204 chip and the external circuit ...",
+    "price": "₹ 300",
+    "xprice": "₹ 450",
+    "off": "70% off"
+  },
+  {
+    "Img": "./img/product_card9.jpg",
+    "Title": "Short Stroke Linear",
+    "Text": "For demonstration, test and development purposes, it is convenient communicate with...",
+    "price": "₹ 290",
+    "xprice": "₹ 550",
+    "off": "58% off"
+  },
+  {
+    "Img": "./img/product_card6.jpg",
+    "Title": "11mm E-Core Target",
+    "Text": "CAM502 Development Board includes a high-speed CAM502 chip and  external circuitry...",
+    "price": "₹ 180",
+    "xprice": "₹ 250",
+    "off": "50% off"
+  },
+  {
+    "Img": "./img/product_card7.jpg",
+    "Title": "CAM204",
+    "Text": "Targets mark moving parts, so their position can be sened with resonant inductive...",
+    "price": "₹ 590",
+    "xprice": "₹ 800",
+    "off": "43% off"
+  },
+  {
+    "Img": "./img/product_card8.jpg",
+    "Title": "Arc Position Sensors",
+    "Text": "A selection of development tools available assist the evaluation and integration...",
+    "price": "₹ 680",
+    "xprice": "₹ 920",
+    "off": "72% off"
+  },
+  {
+    "Img": "./img/product_card9.jpg",
+    "Title": "Imagine Technologies Fully ",
+    "Text": "For demonstration, test and development purposes, it convenient communicate with...",
+    "price": "₹ 450",
+    "xprice": "₹ 790",
+    "off": "54% off"
+  },
+  {
+    "Img": "./img/product_corusel-1.jpg",
+    "Title": "Linear Sensors",
+    "Text": "For demonstration, test and development purposes, it convenient communicate with...",
+    "price": "₹ 340",
+    "xprice": "₹ 500",
+    "off": "58% off"
+  },
+  {
+    "Img": "./img/big-card-4.jpg",
+    "Title": "Leyden Water Tank Use High",
+    "Text": "For demonstration, test and development purposes, it convenient communicate with...",
+    "price": "₹ 180",
+    "xprice": "₹ 250",
+    "off": "50% off"
+  },
+  {
+    "Img": "./img/big-card-11.jpg",
+    "Title": "Sensor Module Reflective ",
+    "Text": "For demonstration, test and development purposes, it convenient communicate with...",
+    "price": "₹ 490",
+    "xprice": "₹ 670",
+    "off": "47% off"
+  },
+  {
+    "Img": "./img/card_img-1.jpeg",
+    "Title": "MFRC RC522 RFID-RC522 RF IC Card ",
+    "Text": "Manushre Manas Enterprises MFRC RC522 RFID-RC522 RF IC Card Reader Sensor Module...",
+    "price": "₹ 130",
+    "xprice": "₹ 250",
+    "off": "52% off"
+  },
+  {
+    "Img": "./img/card_img-2.jpeg",
+    "Title": "MFRC RC522 RFID-RC522 RF IC Card ",
+    "Text": "Grahikum MFRC RC522 RFID-RC522 RF IC Card Reader Sensor Module S50 13.56MHz RFID...",
+    "price": "₹ 460",
+    "xprice": "₹ 670",
+    "off": "30% off"
+  },
+  {
+    "Img": "./img/card_img-3.jpeg",
+    "Title": "5pcs LM393 Chip Motor Measuring Sensor ",
+    "Text": "Super Debug 5pcs LM393 Chip Motor Measuring Comparator Speed Sensor Module Slot...",
+    "price": "₹ 500",
+    "xprice": "₹ 750",
+    "off": "50% off"
+  },
+  {
+    "Img": "./img/card_img-4.jpeg",
+    "Title": "Hx711 Weight Weighing Load Cell Sensors ",
+    "Text": "Scriptronics Hx711 Weight Weighing Load Cell Conversion Module Sensors Ad Module...",
+    "price": "₹ 760",
+    "xprice": "₹ 990",
+    "off": "46% off"
+  },
+  {
+    "Img": "./img/card_img-5.jpeg",
+    "Title": "IR Infrared Sensor Modul kit ",
+    "Text": "APTECHDEALS IR Infrared Sensor Module Reflective Photoelectric Light Intensity ...",
+    "price": "₹ 560",
+    "xprice": "₹ 780",
+    "off": "54% off"
+  },
+
+  {
+    "Img": "./img/card_img-7.jpeg",
+    "Title": "Combo IR Proximity Sensor ",
+    "Text": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One Channel Relay Module with Isola...",
+    "price": "₹ 340",
+    "xprice": "₹ 999",
+    "off": "65% off"
+  },
+  {
+    "Img": "./img/card_img-8.jpeg",
+    "Title": "Ultrasonic Sensor Modul SG90",
+    "Text": "AlphaCore Ultrasonic Sensor Module With SG90 Servo Motor and 10 pc...",
+    "price": "₹ 329",
+    "xprice": "₹ 599",
+    "off": "45% off"
+  },
+  {
+    "Img": "./img/card_img-6.jpeg",
+    "Title": "Combo IR Proximity Sensor ",
+    "Text": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One Channel Relay Module with Isola...",
+    "price": "₹ 180",
+    "xprice": "₹ 250",
+    "off": "50% off"
+  },
+  {
+    "Img": "./img/card_img-7.jpeg",
+    "Title": "Combo IR Proximity Sensor ",
+    "Text": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One Channel Relay Module with Isola...",
+    "price": "₹ 340",
+    "xprice": "₹ 999",
+    "off": "65% off"
+  },
+  {
+    "Img": "./img/card_img-4.jpeg",
+    "Title": "Hx711 Weight Weighing Load Cell Sensors ",
+    "Text": "Scriptronics Hx711 Weight Weighing Load Cell Conversion Module Sensors Ad Module...",
+    "price": "₹ 760",
+    "xprice": "₹ 990",
+    "off": "46% off"
+  },
+  {
+    "Img": "./img/card_img-5.jpeg",
+    "Title": "IR Infrared Sensor Modul kit ",
+    "Text": "APTECHDEALS IR Infrared Sensor Module Reflective Photoelectric Light Intensity ...",
+    "price": "₹ 560",
+    "xprice": "₹ 780",
+    "off": "54% off"
+  },
+  {
+    "Img": "./img/card_img-7.jpeg",
+    "Title": "Combo IR Proximity Sensor ",
+    "Text": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One Channel Relay Module with Isola...",
+    "price": "₹ 340",
+    "xprice": "₹ 999",
+    "off": "65% off"
+  }
+]
